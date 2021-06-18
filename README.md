@@ -7,4 +7,4 @@ Week 5: Backpropagation to train Neural Networks for recognization of handwritte
 Week 6: Regularization, Bias vs Variance (underfitting and overfitting)
 Week 7: SVM for email spams classifier
 Week 8: K-means clustering and PCA for image dimension reduction 
-Week 9: Annomaly detection and Recommender system
+Week 9: Annomaly detection and Recommender
